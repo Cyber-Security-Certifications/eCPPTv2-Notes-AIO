@@ -3,7 +3,11 @@ All packages, tools,wordlists and tutorials you need to pass eCPPTv2
 
 ## Certification Topics
 
-(eLearnSecurity)[https://elearnsecurity.com/product/ecpptv2-certification/]
+
+- [eLearnSecurity](https://elearnsecurity.com/product/ecpptv2-certification/)
+- [eLearnSecurity Certified Professional Penetration Tester (eCPPTv2)](https://elearnsecurity.com/product/ecpptv2-certification/)
+
+- Exam Prie $400
 
 - Penetration testing processes and methodologies, against Windows and Linux targets
 - Vulnerability Assessment of Networks
