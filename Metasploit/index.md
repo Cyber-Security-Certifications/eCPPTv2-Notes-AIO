@@ -24,7 +24,7 @@
 
 
 
-## Autoroute
+## Collect Credentials
 
 
 
@@ -39,12 +39,6 @@
 
 
 ## Handlers
-
-
-
-
-## Pivoting Everything with Metasploit
-
 
 
 
