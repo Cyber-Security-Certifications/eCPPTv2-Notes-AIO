@@ -18,13 +18,13 @@ Here I will share all the content you need to study and pass the eCPPTv2 exam.
 - Penetration testing processes and methodologies, against Windows and Linux targets
 - Vulnerability Assessment of Networks
 - Vulnerability Assessment of Web Applications
-- Advanced Exploitation with Metasploit
+- [Advanced Exploitation with Metasploit](./Metasploit/index.md)
 - Performing Attacks in Pivoting
 - Web application Manual exploitation
 - Information Gathering and Reconnaissance
 - Scanning and Profiling the target
 - Privilege escalation and Persistence
-- Exploit Development
+- [Exploit Development](./BufferOverFlow/index.md)
 - Advanced Reporting skills and Remediation
 
 
