@@ -35,7 +35,8 @@ Here I will share all the content you need to study and pass the eCPPTv2 exam.
 - Metasploit
 - John the Ripper
 - Chisel
-
+- SQLMap
+- BurpSuite
 
 ## Resources - jUICE
 
