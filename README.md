@@ -32,3 +32,15 @@ Here I will share all the content you need to study and pass the eCPPTv2 exam.
 
 - CrackMapExec
 - Nmap
+
+
+## Resources - jUICE
+
+- https://www.exploit-db.com/exploits/29290 
+- https://blog.ropnop.com/upgrading-simple-shells-to-fully-interactive-ttys/
+- https://blog.adrianistan.eu/usar-la-vulnerabilidad-dirtycow-convertirse-root-linux 
+- https://www.hackplayers.com/2018/04/taller-de-pivoting-metasploit.html https://owasp.org/www-community/attacks/xss/
+- https://owasp.org/www-project-top-ten/2017/A1_2017-Injection 
+- https://www.cisecurity.org/wp-content/uploads/2019/01/Security-Primer-EternalBlue.pdf 
+- https://csrc.nist.gov/projects/ssdf
+
