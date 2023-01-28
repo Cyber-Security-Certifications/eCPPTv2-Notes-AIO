@@ -4,6 +4,11 @@
 1 - Use Metasploit 6 it will help you with pivoting!
 
 
+## Handlers
+
+
+## Sockets
+
 
 ## Reverse Shells
 
@@ -23,14 +28,6 @@
 - PsExec
 
 
-
-## Collect Credentials
-
-
-
-
-
-
 ## Generate Shells
 
 
@@ -38,14 +35,24 @@
 
 
 
-## Handlers
 
 
 
-## Windows Post Exploitations Modules
+## Post Exploitations Modules
+
+### Windows
+
+
+### Linux
+
+
+### Collect Credentials
 
 
 
-## Linux Post Exploitations Modules
+## Evasion
 
 
+
+
+## Persistence
