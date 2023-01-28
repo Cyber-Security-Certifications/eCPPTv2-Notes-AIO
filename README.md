@@ -32,6 +32,9 @@ Here I will share all the content you need to study and pass the eCPPTv2 exam.
 
 - CrackMapExec
 - Nmap
+- Metasploit
+- John the Ripper
+- Chisel
 
 
 ## Resources - jUICE
